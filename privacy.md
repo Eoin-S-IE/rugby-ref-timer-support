@@ -44,4 +44,4 @@ This privacy policy may be updated from time to time. Any changes will be posted
 
 If you have questions about this privacy policy, contact:
 
-**Email:** your-email@example.com
+**Email:** eoin@seapointrugby.com
