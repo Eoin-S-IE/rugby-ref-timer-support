@@ -1,8 +1,12 @@
+![AppScreens](./images/AppScreens.png)
+
 # Rugby Ref Timer Support
 
 Rugby Ref Timer is an Apple Watch app for rugby referees.
 
 It helps track elapsed time, playing time, time-off periods, halves, and yellow-card countdowns during rugby matches.
+
+[User Guide](./guide)
 
 ## Contact
 
@@ -26,4 +30,4 @@ No. Rugby Ref Timer does not require an account and does not collect, store, or 
 
 ## Privacy
 
-Rugby Ref Timer does not collect, store, or share personal data.
+Rugby Ref Timer does not collect, store, or share personal data. [Privacy Policy](./privacy)
