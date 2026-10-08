@@ -1,4 +1,4 @@
-![AppScreens](./images/AppScreen1.png)![AppScreens](./images/AppScreen2.png)![AppScreens](./images/AppScreen3.png)
+![AppScreens](./images/AppScreens.png)
 
 # Rugby Ref Timer User Guide
 
