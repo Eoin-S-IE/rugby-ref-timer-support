@@ -69,7 +69,7 @@ Rugby Ref Timer shows two different time values.
 
 This helps you keep track of both the official playing clock and the real elapsed time on the pitch.
 
-![Elapsed and playing time screen](./images/elapsed-playing-time.png)
+![Elapsed and playing time screen](./images/main-timer-screen.png)
 
 ---
 
@@ -162,7 +162,8 @@ At half-time, the app can still show the cards screen, so you can review any car
 
 When the second half begins, start timing again.
 
-![Half-time screen](./images/half-time-screen.png)
+![Half-time screen 1](./images/half-time-screen-1.png)
+![Half-time screen 2](./images/half-time-screen-2.png)
 
 ---
 
@@ -172,7 +173,8 @@ When you end the second half, the app shows a summary of cards issued during the
 
 The summary includes the cards issued and the match time at which they occurred.
 
-![Full-time screen](./images/full-time-screen.png)
+![Full-time screen 1](./images/full-time-screen-1.png)
+![Full-time screen 2](./images/full-time-screen-2.png)
 
 ---
 
